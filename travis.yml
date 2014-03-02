@@ -3,8 +3,8 @@ rvm:
   - 1.9.3
 install: 
   - gem install rails
-  - bundle install
 script: 
   - cd commerce0 
+  - bundle install
   - rake test
   
