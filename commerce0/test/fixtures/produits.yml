@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nom: "Agile web development with Rails 4"
+  description: Book
+  prix: 43.95
+  image: "http://imagery.pragprog.com/products/196/rails4_xlargecover.jpg"
+
+two:
+  nom: "Erlang Programming"
+  description: Book
+  prix: 39.99
+  image: "http://akamaicovers.oreilly.com/images/9780596518189/cat.gif "
+
+three:
+  nom: "Jump start Node.js"
+  description: Book
+  prix: 24.95
+  image: "http://akamaicovers.oreilly.com/images/9780987332103/cat.gif "
+
+four:
+  nom: "Financial modelling in Python"
+  description: Book
+  prix: 90.0
+  image: "http://my.safaribooksonline.com/static/201402-7568-my/images/9780470987841/9780470987841_xs.gif "
