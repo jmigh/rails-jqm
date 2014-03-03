@@ -5,4 +5,5 @@ install: gem install rails
 script: 
   - echo V0.1
   - cd commerce 
+  - bundle install
   - rake test
