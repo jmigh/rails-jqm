@@ -3,6 +3,6 @@ rvm:
   - 1.9.3
 install: gem install rails
 script: 
-  - echo V0
+  - echo V0.1
   - cd commerce 
   - rake test
