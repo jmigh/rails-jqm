@@ -3,6 +3,5 @@ rvm:
   - 1.9.3
 install: gem install rails
 script: 
-  - cd commerce0 
+  - cd commerce 
   - rake test
-  
