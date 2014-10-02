@@ -7,4 +7,4 @@ script:
   - cd commerce0 
   - bundle install
   - rake test
-  
+  - echo monde
