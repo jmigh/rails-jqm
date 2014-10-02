@@ -6,5 +6,6 @@ install:
 script: 
   - cd commerce0 
   - bundle install
+  - bundle exec
   - rake test
   - echo monde
