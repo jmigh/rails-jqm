@@ -7,3 +7,4 @@ script:
   - cd commerce 
   - bundle install
   - bundle exec rake test
+  - echo jacquot-fernandez absent
