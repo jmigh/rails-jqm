@@ -6,5 +6,4 @@ script:
   - echo V0.1
   - cd commerce 
   - bundle install
-  - bundle exec
-  - rake test
+  - bundle exec rake test
