@@ -4,7 +4,7 @@ rvm:
 install: 
   - gem install rails
 script: 
-  - cd commerce0 
+  - cd commerce
   - bundle install
   - bundle exec
   - rake test
